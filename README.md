@@ -6,7 +6,8 @@
 
 ## 📸 Preview
 
-> Screenshots will be added later
+<img width="1917" height="1078" alt="изображение" src="https://github.com/user-attachments/assets/a09d7a97-e880-4f48-a5e9-863d0076a3bc" />
+
 
 ---
 
