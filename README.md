@@ -51,7 +51,8 @@ caelestia scheme set -n wine
    ```
 
 ---
-
+## Wallpaper
+https://wallhaven.cc/w/p92vg3
 ## 🤝 Contributing
 
 If you like **wine**, don’t forget to ⭐ the repository — it helps motivate sharing more things on GitHub 🍷
